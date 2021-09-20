@@ -10,6 +10,15 @@ nav {
     padding: 20px 0;
     padding-left: 10.2vw;
     width: 100vw;
+    
+nav > a {
+    text-decoration: none;
+    margin-right: 25px;
+    color: rgb(25, 25, 25);
+    transition: color 0.5s ease;
+}
+
+
 }
 
 a > button {
