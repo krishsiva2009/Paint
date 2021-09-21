@@ -14,7 +14,13 @@ nav {
 nav > a {
     text-decoration: none;
     margin-right: 25px;
-    color: rgb(25, 25, 25);
+    color: #212121;
+    transition: color 0.5s ease;
+}
+nav > a:hover {
+    text-decoration: none;
+    margin-right: 25px;
+    color: #c9abbd;
     transition: color 0.5s ease;
 }
 
