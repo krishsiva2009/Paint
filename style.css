@@ -58,6 +58,7 @@ h1 {
 
 .shadow-img > img {
     margin-left: 500px;
+    box-shadow: 0px 6px 22px 7px rgba(0,0,0,0.37);
 }
     
 /*Home Page*/
