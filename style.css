@@ -56,8 +56,16 @@ h1 {
     margin-left: 10px;
 }
 
-.shadow-img > img {
-    margin-left: 500px;
+.shadow-img {
+    width: 50vw;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.shadow-img img {
+    margin-left: 2vw;
+    width: 40vw;
     box-shadow: 0px 6px 22px 7px rgba(0,0,0,0.37);
 }
     
