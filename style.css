@@ -55,5 +55,18 @@ h1 {
     margin-top: 150px;
     margin-left: 10px;
 }
+
+.shadow {
+    width: 50vw;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.shadow img {
+    margin-left: 2vw;
+    width: 40vw;
+    box-shadow: 0px 6px 22px 7px rgba(0,0,0,0.37);
+}
     
 /*Home Page*/
