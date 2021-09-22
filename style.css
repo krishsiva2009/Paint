@@ -56,7 +56,7 @@ h1 {
     margin-left: 10px;
 }
 
-.shadow-img img {
+.shadow-img > img {
     margin-left: 150px;
 }
     
