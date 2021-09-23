@@ -3,7 +3,7 @@
 
 
 ## Image of the Application
-<img src="https://github.com/krishsiva2009/Paint/blob/main/MainImage.jpg" width="500">
+<img src="https://github.com/krishsiva2009/Paint/blob/main/PaintTN.jpg" width="500">
 
 # Credits
 *Here you will see the credits.*
