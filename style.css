@@ -13,6 +13,7 @@ nav {
     width: 100vw;
 }
 nav > a {
+    position: fixed;
     text-decoration: none;
     margin-right: 25px;
     color: #212121;
