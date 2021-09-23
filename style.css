@@ -70,3 +70,27 @@ h1 {
 }
     
 /*Home Page*/
+
+/*Docs*/
+/*Side bar*/
+
+.sidebar {
+    position: fixed;
+    margin-top: 15px;
+    padding-top: 12vh;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+}
+
+.sidebar > a{
+    text-decoration: none;
+    color: #292929;
+    margin-bottom: 15px;
+    font size: 0.9rem;
+    transition: color 0.2s ease;
+    
+.sidebar > a:hover {
+    color: #000000;
+    transition: color 0.2s ease;
+/*side bar*/
