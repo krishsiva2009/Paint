@@ -77,7 +77,8 @@ h1 {
 /*Side bar*/
 
 .sidebar {
-    margin-left: 50px;
+    position: fixed;
+    margin-left: 100px;
     margin-top: 15px;
     padding-top: 12vh;
     display: flex;
