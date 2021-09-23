@@ -98,3 +98,10 @@ h1 {
     transition: color 0.2s ease;
 }
 /*side bar*/
+
+/*Content*/
+
+.documentation {
+    margin-left: 12vw;
+    width: 52vw;
+    margin-bottom: 30vh;
