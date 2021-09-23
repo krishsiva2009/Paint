@@ -8,6 +8,7 @@
 /* Navigation bar */
 nav {
     background-color: #fff5fb;
+    position: fixed;
     padding: 20px 10;
     padding-left: 10.2vw;
     width: 100vw;
