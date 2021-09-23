@@ -33,6 +33,7 @@ a > button {
     background-color:#3598dc;
     border: none;
     outline: none;
+}
     padding: 12px;
     border-radius: 6px;
     color: white;
@@ -82,6 +83,7 @@ h1 {
     display: flex;
     flex-direction: column;
     width: fit-content;
+}
 
 .sidebar > a {
     text-decoration: none;
@@ -90,8 +92,10 @@ h1 {
     margin-bottom: 15px;
     font-size: 0.9rem;
     transition: color 0.2s ease;
-    
+}
+
 .sidebar > a:hover {
     color: #000000;
     transition: color 0.2s ease;
+}
 /*side bar*/
