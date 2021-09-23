@@ -11,7 +11,7 @@ nav {
     background-color: #a38195;
     padding: 20px 0;
     padding-left: 10.2vw;
-    width: device-width;
+    width: 100vw;
 }
 nav > a {
     text-decoration: none;
