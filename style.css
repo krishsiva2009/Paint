@@ -11,7 +11,7 @@ nav {
     position: fixed;
     padding: 20px 0;
     padding-left: 10.2vw;
-    width: 100vw;
+    width: device-width;
 }
 nav > a {
     text-decoration: none;
@@ -76,7 +76,6 @@ h1 {
 /*Side bar*/
 
 .sidebar {
-    position: fixed;
     margin-left: 50px;
     margin-top: 15px;
     padding-top: 12vh;
