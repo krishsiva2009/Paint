@@ -83,7 +83,7 @@ h1 {
     flex-direction: column;
     width: fit-content;
 
-.sidebar > a{
+.sidebar > a {
     text-decoration: none;
     color: #292929;
     padding: 5px 20px;
