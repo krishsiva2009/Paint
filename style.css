@@ -125,3 +125,8 @@ h1 {
     font-size: 1rem;
     margin-bottom: 10px;
 }
+
+.documentation > img {
+    margin-top: 5px;
+    width: 50vw;
+}
