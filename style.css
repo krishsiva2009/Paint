@@ -111,12 +111,12 @@ h1 {
 
 .documentation > h2 {
     padding-top: 15vh;
-    font-size: 2.4rem;
+    font-size: 2.5rem;
     margin-bottom: 10px;
 }
 
 .documentation > h3 {
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     margin-top: 40px;
     margin-bottom: 10px;
 }
@@ -127,6 +127,6 @@ h1 {
 }
 
 .documentation > img {
-    margin-top: 5px;
+    margin-top: 7px;
     width: 50vw;
 }
