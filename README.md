@@ -1,5 +1,5 @@
 # Paint
-*This is a documentation of a Paint Aplication. It is not yet completed but before 15 OCT 2021, I will complete it.*
+*This is a documentation of a Paint Aplication. It is not yet completed I will complete it.*
 
 Unfinished Website: https://krishsiva2009.github.io/Paint/
 
